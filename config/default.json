@@ -1,6 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://zohaib123:zohaib123@devconnector-ubung.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken",
-  "githubClientId": "a591ca482afb7377e4c0",
-  "githubSecret": "fd1124b94173135815d57efdd2efde9a0c208f4f"
-}
