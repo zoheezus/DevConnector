@@ -8,4 +8,10 @@ React & Redux <br />
 MongoDB
 
 ## Installation
-...
+```npm install``` <br/>
+```cd client``` <br/>
+```npm install``` <br/>
+```cd ..``` <br/>
+
+## Get App Running
+```npm run dev```
