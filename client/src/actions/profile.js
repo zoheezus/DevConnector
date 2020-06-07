@@ -29,7 +29,7 @@ export const getCurrentProfile = () => async (dispatch) => {
 };
 
 // Get all profiles
-export const getProfile = () => async (dispatch) => {
+export const getProfiles = () => async (dispatch) => {
   // prevent past user's profile from being flashed
   dispatch({ type: CLEAR_PROFILE });
 
