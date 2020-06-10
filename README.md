@@ -8,6 +8,7 @@ React & Redux <br />
 MongoDB
 
 ## Installation
+You'll need to add your own keys file into the config folder and name is default.json <br />
 ```npm install``` <br/>
 ```cd client``` <br/>
 ```npm install``` <br/>
