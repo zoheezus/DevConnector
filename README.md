@@ -1,5 +1,5 @@
 # DevConnect
-_DevConnect_ is a CRUD project through Traversy Media. It is meant to be a social media platform for developers.
+_DevConnect_ is a CRUD project through Traversy Media. It is meant to be a social media platform for developers.<br />
 Click [HERE](https://limitless-ravine-55780.herokuapp.com/register) to see a working demo.
 
 ## Tech Stack
