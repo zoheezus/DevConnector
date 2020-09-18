@@ -1,14 +1,14 @@
 # DevConnect
-DevConnect is project through Traversy Media. It is meant to be a social media platform for developers.
+_DevConnect_ is a CRUD project through Traversy Media. It is meant to be a social media platform for developers.
 
 ## Tech Stack
 Node.js <br />
 Express <br />
-React & Redux <br />
+React (w/ hooks) & Redux <br />
 MongoDB
 
 ## Installation
-You'll need to add your own keys file into the config folder and name is default.json <br />
+You'll need to add your own keys file into the config folder and name the file as _default.json_ <br />
 ```npm install``` <br/>
 ```cd client``` <br/>
 ```npm install``` <br/>
