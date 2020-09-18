@@ -45,7 +45,6 @@ const EditProfile = ({
       youtube: loading || !profile.youtube ? "" : profile.youtube,
       instagram: loading || !profile.instagram ? "" : profile.instagram,
     });
-    // eslint-disable-next-line
   }, [loading, getCurrentProfile]);
 
   const {
@@ -252,7 +251,7 @@ EditProfile.propTypes = {
   profile: PropTypes.object.isRequired,
 };
 
-const mapStateToProps = state => ({
+const mapStateToProps = (state) => ({
   profile: state.profile,
 });
 
